@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanielKuznet
-- 👀 I’m interested in Web Development and Cyber Security - particularly in Ethical Hacking
-- 🌱 I’m currently learning JavaScript and Pyhton
+- 👀 I’m interested in Web Development 
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on any projects 
 - 📫 How to reach me – 424-388-8665 or danilkuznet@icloud.com or kuznetsov.dg495@gmail.com
 
